@@ -260,5 +260,23 @@ footer {
 }
 
 @media screen and (max-width: 768px){
-    
+    .apresentacao{
+        width: 60%;
+    }
+
+    .lista-produtos{
+        margin: 10px 1.0%;
+    }
+
+    footer{
+        display: flex;
+        height: 120px;
+    }
+
+    rodape{
+        position: relative;
+        top: 10px;
+    }
+
+
 }
